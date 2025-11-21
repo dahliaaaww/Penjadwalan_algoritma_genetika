@@ -1,0 +1,55 @@
+hari,hari_index,slot_mulai,slot_selesai,jam_mulai,jam_selesai,ruang,kode_mk,nama_mk,semester,kelas,dosen,tipe_dosen,sks
+Senin,0,0,2,07:00,09:30,TI2,MKJ512301,Sistem Terdistribusi,5,B,"Herkules, S.Kom., M.Cs.",Tetap,3
+Senin,0,0,1,07:00,08:40,TI6,MKI112201,Agama Islam,1,B,"Drs. Heri Purwanto, M.Pd.",Tetap,2
+Senin,0,1,1,07:50,08:40,TI1,RPL312101,Praktikum Sistem Basis Data,3,B,"Rommi Kaestira, M.Kom.",Tetap,1
+Senin,0,2,4,08:40,11:10,TI3,RPL312305,Pemrograman Web,3,A,"Lili Rusdiana, M.Kom.",Tetap,3
+Senin,0,3,3,09:30,10:20,TI4,ARK312101,Praktikum Sistem Operasi,3,B,"Amaya Andri Damaini, S.Kom., M.T.",Tetap,1
+Senin,0,3,4,09:30,11:10,TI6,MKI312207,Pendidikan Anti Korupsi,3,B,"Drs. Heri Purwanto, M.Pd.",Tetap,2
+Senin,0,4,6,10:20,12:50,TI6,GKM712301,Pemodelan dan Simulasi,7,B,"Hotmian Sitohang, M.Kom.",Tetap,3
+Senin,0,5,6,11:10,12:50,TI4,MKH112201,Bahasa Inggris I,1,B,"Catharina Elmayantie, M.Pd.",Tetap,2
+Senin,0,6,8,12:00,14:30,TI5,RPL512203,Pemrograman Framework,5,A,"Christia Putra, S.Kom., M.MSI./Abdi Dwi Nugraha, S.Kom.",Tetap,3
+Senin,0,8,10,13:40,16:10,TI4,CDS512301,Sistem Pengambilan Keputusan,5,B,"Veny Cahya Hardita, M.Kom.",Tetap,3
+Selasa,1,0,1,07:00,08:40,TI4,MKI512201,Kewirausahaan,5,A,"Catharina Elmayantie, M.Pd.",Tetap,2
+Selasa,1,1,2,07:50,09:30,TI6,MTS112201,Kalkulus I,1,B,"Elok Faiqohul Himmah, S.Si., M.Sc.",Tetap,2
+Selasa,1,3,4,09:30,11:10,TI5,MKH112202,Etika Profesi Informatika,1,A,"H. Suranto, S.Kom., M.Si./Halifa Sekar Meta, M.Kom.",Tetap,2
+Selasa,1,5,7,11:10,13:40,TI6,ARK312301,Sistem Operasi,3,A,"Amaya Andri Damaini, S.Kom., M.T.",Tetap,3
+Selasa,1,7,8,12:50,14:30,TI2,MTS112202,Aljabar Linear dan Matriks,1,A,"Rudini, M.Pd.",Tetap,2
+Rabu,2,1,1,07:50,08:40,TI6,MKJ312202,Praktikum Jaringan Komputer,3,A,"Sam’ani, ST., M.Kom.",Tetap,1
+Rabu,2,3,5,09:30,12:00,TI1,MKJ512301,Sistem Terdistribusi,5,A,"Herkules, S.Kom., M.Cs.",Tetap,3
+Rabu,2,5,7,11:10,13:40,TI4,RPL512203,Pemrograman Framework,5,B,"Christia Putra, S.Kom., M.MSI./Abdi Dwi Nugraha, S.Kom.",Tetap,3
+Rabu,2,7,8,12:50,14:30,TI3,MKJ312201,Jaringan Komputer,3,A,"Sam’ani, ST., M.Kom.",Tetap,2
+Rabu,2,8,10,13:40,16:10,TI6,MPP512305,Pengenalan Pola,5,B,"Moch. Ichsan, S.T., M.Kom.",Tetap,3
+Rabu,2,9,11,14:30,17:00,TI2,GKM712301,Pemodelan dan Simulasi,7,A,"Hotmian Sitohang, M.Kom.",Tetap,3
+Rabu,2,9,10,14:30,16:10,TI3,MTS112202,Aljabar Linear dan Matriks,1,B,"Rudini, M.Pd.",Tetap,2
+Rabu,2,9,10,14:30,16:10,TI5,ARK112201,Pengantar Teknologi Komputer dan Informatika,1,A,"H. Suranto, S.Kom., M.Si.",Tetap,2
+Kamis,3,0,1,07:00,08:40,TI4,ALP112203,Logika Informatika,1,A,"Rudini, M.Pd.",Tetap,2
+Kamis,3,1,3,07:50,10:20,TI3,ARK312301,Sistem Operasi,3,B,"Amaya Andri Damaini, S.Kom., M.T.",Tetap,3
+Kamis,3,2,4,08:40,11:10,TI5,RPL312301,Sistem Basis Data,3,A,"Rommi Kaestira, M.Kom.",Tetap,3
+Kamis,3,4,5,10:20,12:00,TI2,MKH312204,Kepemimpinan,3,B,"H. Suranto, S.Kom., M.Si.",Tetap,2
+Kamis,3,5,6,11:10,12:50,TI1,ARK312101,Statistika Lanjut,3,B,"Elok Faiqohul Himmah, S.Si., M.Sc.",Tetap,2
+Kamis,3,6,7,12:00,13:40,TI2,MKH312204,Kepemimpinan,3,A,"H. Suranto, S.Kom., M.Si.",Tetap,2
+Kamis,3,8,9,13:40,15:20,TI2,MKI312207,Pendidikan Anti Korupsi,3,A,"Drs. Heri Purwanto, M.Pd.",Tetap,2
+Kamis,3,8,10,13:40,16:10,TI4,RPL312301,Sistem Basis Data,3,B,"Rommi Kaestira, M.Kom.",Tetap,3
+Kamis,3,10,11,15:20,17:00,TI6,MKH112202,Etika Profesi Informatika,1,B,"H. Suranto, S.Kom., M.Si./Halifa Sekar Meta, M.Kom.",Tetap,2
+Jumat,4,0,1,07:00,08:40,TI5,MKI112202,Pancasila,1,A,"Dewanto Zulkarnaim, M.Pd.",DLB,2
+Jumat,4,1,1,07:50,08:40,TI6,ALP112202,Praktikum Dasar Pemrograman,1,B,"Ir. Hj. Siti Maryamah, M.M.",DLB,1
+Jumat,4,2,2,08:40,09:30,TI2,ARK312101,Praktikum Sistem Operasi,3,A,"Amaya Andri Damaini, S.Kom., M.T.",Tetap,1
+Jumat,4,2,3,08:40,10:20,TI4,MKI112204,Agama Hindu,1,A,"Dr. I. Gede Dharman Gunawan, M.Pd.H.",DLB,2
+Jumat,4,2,3,08:40,10:20,TI5,MKJ312201,Jaringan Komputer,3,B,"Sam’ani, ST., M.Kom.",Tetap,2
+Jumat,4,3,4,09:30,11:10,TI2,ALP112203,Logika Informatika,1,B,"Rudini, M.Pd.",Tetap,2
+Jumat,4,3,5,09:30,12:00,TI6,CDS512301,Sistem Pengambilan Keputusan,5,A,"Veny Cahya Hardita, M.Kom.",Tetap,3
+Jumat,4,5,7,11:10,13:40,TI1,ALP112201,Dasar Pemrograman,1,B,"Ir. Hj. Siti Maryamah, M.M.",DLB,3
+Jumat,4,6,8,12:00,14:30,TI3,RPL312305,Pemrograman Web,3,B,"Lili Rusdiana, M.Kom.",Tetap,3
+Jumat,4,6,7,12:00,13:40,TI6,MKI112205,Agama Buddha,1,A,"Dr. Joko Santoso, S.Ag., M.M.",DLB,2
+Jumat,4,8,8,13:40,14:30,TI6,RPL312101,Praktikum Sistem Basis Data,3,A,"Rommi Kaestira, M.Kom.",Tetap,1
+Jumat,4,9,10,14:30,16:10,TI2,MKH112201,Bahasa Inggris I,1,A,"Catharina Elmayantie, M.Pd.",Tetap,2
+Sabtu,5,0,1,07:00,08:40,TI4,ARK312101,Statistika Lanjut,3,A,"Elok Faiqohul Himmah, S.Si., M.Sc.",Tetap,2
+Sabtu,5,1,3,07:50,10:20,TI1,MPP512305,Pengenalan Pola,5,A,"Moch. Ichsan, S.T., M.Kom.",Tetap,3
+Sabtu,5,2,3,08:40,10:20,TI2,MKI112201,Agama Islam,1,A,"Drs. Heri Purwanto, M.Pd.",Tetap,2
+Sabtu,5,4,5,10:20,12:00,TI5,MKI112203,Agama Katolik,1,A,"Yustinus Dwi Andriyanto, S.Ag., M.M.",DLB,2
+Sabtu,5,4,5,10:20,12:00,TI6,MKI112202,Pancasila,1,B,"Dewanto Zulkarnaim, M.Pd.",DLB,2
+Sabtu,5,6,6,12:00,12:50,TI5,MKJ312202,Praktikum Jaringan Komputer,3,B,"Sam’ani, ST., M.Kom.",Tetap,1
+Sabtu,5,7,8,12:50,14:30,TI5,MKI512201,Kewirausahaan,5,B,"Catharina Elmayantie, M.Pd.",Tetap,2
+Sabtu,5,7,8,12:50,14:30,TI6,MKI112206,Agama Kristen Protestan,1,A,"Pdt. Dr. Kilat Kasanang, S.Pd., M.Th.",DLB,2
+Sabtu,5,9,10,14:30,16:10,TI4,ARK112201,Pengantar Teknologi Komputer dan Informatika,1,B,"H. Suranto, S.Kom., M.Si.",Tetap,2
+Sabtu,5,9,10,14:30,16:10,TI6,MTS112201,Kalkulus I,1,A,"Elok Faiqohul Himmah, S.Si., M.Sc.",Tetap,2
